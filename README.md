@@ -1,4 +1,10 @@
-users-poweredby
+Users PoweredBy.MOE
 ===============
 
-A Symfony project created on November 4, 2016, 2:52 pm.
+**Note: This project is in early alpha stage. Do not use this on a production environment.**
+
+_Description TBD_
+
+
+Requirements:
+- PHP 7.0+
